@@ -25,13 +25,14 @@ This repo includes:
 - 🧾 Whitepaper (PDF)
 - 🧪 Reproducible results with rejection tests, zone validation, and agent quarantine logic
 
-> 🚨 All code and architectural logic disclosed here are protected under the following provisional applications:
-> - 63/813,780 (May 29, 2025)  
-> - 63/815,764 (May 01, 2025)  
-> - 63/820,143 (June 09, 2025)
+## ⚠️ Intellectual Property Notice
 
----
+This repository contains material covered by **pending U.S. patent applications**:
 
-More sections (Quick Start, File Map, etc.) can follow — want me to flesh out the rest now?
+- 63/813,780 (Filed May 29, 2025)  
+- 63/815,764 (Filed May 01, 2025)  
+- 63/820,143 (Filed June 09, 2025)  
 
-And do you want a `NOTICE.txt` or `LICENSE.txt` template next?
+All rights reserved. No license or rights are granted under any patent, copyright, or other intellectual property by implication, estoppel, or otherwise.
+
+Use, reproduction, or distribution of this material without express written permission from the author is prohibited.
